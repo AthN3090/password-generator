@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: rgb(30, 30, 30);
+}
+
+/* .range-custom-style{
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  background-color: transparent;
+}
+
+.range-custom-style::-webkit-slider-runnable-track{
+  background-color: #2a8b8b;
+  border-radius: 5px;
+  height: 5px;
+}
+.range-custom-style::-webkit-slider-thumb{
+  -webkit-appearance: none;
+  appearance:none;
+  background-color: white;
+  height: 10px;
+  border-radius: 10px;
+  width: 10px;
+} */
